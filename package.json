@@ -1,0 +1,26 @@
+{
+  "name": "twitter-api-dev",
+  "version": "1.0.0",
+  "description": "twitter api exploration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramprakash-munugapati/twitter-api-dev.git"
+  },
+  "keywords": [
+    "twitter",
+    "api",
+    "learn",
+    "test",
+    "explore"
+  ],
+  "author": "Ramprakash Munugapati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramprakash-munugapati/twitter-api-dev/issues"
+  },
+  "homepage": "https://github.com/ramprakash-munugapati/twitter-api-dev#readme"
+}
